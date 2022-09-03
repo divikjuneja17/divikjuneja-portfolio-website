@@ -165,4 +165,8 @@ color: var(--primary-color);
     .spacemobile{
         margin-right: 2rem;
     }
+
+    .link{
+        font-size: 14px;
+    }
   }
