@@ -151,4 +151,8 @@ color: var(--primary-color);
     .nav-brand{
         text-align: center;
     }
+
+    .hero-img{
+        width: 250px;
+    }
   }
