@@ -156,4 +156,9 @@ color: var(--primary-color);
     .hero-img{
         width: 250px;
     }
+
+    .footer .list-item-inline{
+      display: block;
+      text-align: center;
+    }
   }
