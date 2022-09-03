@@ -146,6 +146,7 @@ color: var(--primary-color);
     .list-item-inline {
       display: block;
       text-align: center;
+      margin-right: 3rem;
     }
 
     .nav-brand{
