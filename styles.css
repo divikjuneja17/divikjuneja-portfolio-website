@@ -141,3 +141,14 @@ color: var(--primary-color);
 .space-leftright{
     margin: 0rem 1rem 0rem 0rem;
 }
+
+@media screen and (max-width: 576px) {
+    .list-item-inline {
+      display: block;
+      text-align: center;
+    }
+
+    .nav-brand{
+        text-align: center;
+    }
+  }
