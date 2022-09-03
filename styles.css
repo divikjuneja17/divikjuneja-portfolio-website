@@ -143,7 +143,7 @@ color: var(--primary-color);
 }
 
 @media screen and (max-width: 576px) {
-    .list-item-inline {
+    .navigation .list-item-inline {
       display: block;
       text-align: center;
       margin-right: 3rem;
