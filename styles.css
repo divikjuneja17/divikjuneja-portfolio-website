@@ -38,6 +38,10 @@ body{
     border: 1px solid var(--primary-color);
 }
 
+.link-active{
+    font-weight: bold;
+}
+
 hr{
     margin: 2rem 0rem;
 }
